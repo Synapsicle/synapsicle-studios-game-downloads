@@ -1,0 +1,14 @@
+
+{
+  "games": [
+    {
+      "id": "gardening",
+      "title": "A Little Game About Gardening",
+      "description": "Grow your garden, discover new plants, and build your own little gardening world.",
+      "version": "1.0.0",
+      "category": "Simulation",
+      "image": "",
+      "downloadUrl": "https://github.com/Synapsicle/synapsicle-game-downloads/releases/latest/download/gardening.zip"
+    }
+  ]
+}
